@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    tools:showIn="navigation_view">
+
+    <group android:checkableBehavior="single">
+
+        <item
+            android:id="@+id/buscar"
+            android:icon="@drawable/ic_baseline_search_24"
+            android:title="@string/buscar" />
+
+        <item
+            android:id="@+id/favoritos"
+            android:icon="@drawable/ic_baseline_star_border_24"
+            android:title="@string/favoritos" />
+
+        <item
+            android:id="@+id/notificaciones"
+            android:icon="@drawable/ic_outline_notifications_active_24"
+            android:title="@string/notificaciones" />
+
+        <item
+            android:id="@+id/guardadas"
+            android:icon="@drawable/ic_outline_save_24"
+            android:title="@string/guardadas" />
+
+        <item
+            android:id="@+id/micuenta"
+            android:icon="@drawable/ic_outline_person_24"
+            android:title="@string/micuenta" />
+
+        <item
+            android:id="@+id/miscompras"
+            android:icon="@drawable/ic_outline_shopping_cart_24"
+            android:title="@string/miscompras" />
+
+        <item
+            android:id="@+id/ajustes"
+            android:icon="@drawable/ic_outline_settings_24"
+            android:title="@string/ajustes" />
+    </group>
+
+</menu>

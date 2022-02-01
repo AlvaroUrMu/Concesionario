@@ -1,0 +1,22 @@
+<resources>
+    <string name="app_name">Concesionario</string>
+
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+    <string name="buscar">BUSCAR</string>
+    <string name="favoritos">FAVORITOS</string>
+    <string name="notificaciones">NOTIFICACIONES</string>
+    <string name="guardadas">GUARDADAS</string>
+    <string name="micuenta">MI CUENTA</string>
+    <string name="miscompras">MIS COMPRAS</string>
+    <string name="ajustes">AJUSTES</string>
+    <string name="nombre">Urbauto</string>
+    <string name="email">urbauto@gmail.com</string>
+    <string name="tvDetailCombTitle">COMBUSTIBLE</string>
+    <string name="tvDetailKmTitle">LECTURA CUENTAKMs</string>
+    <string name="tvDetailCambioTitle">CAJA DE CAMBIOS</string>
+    <string name="tvDetailPotenciaTitle">POTENCIA</string>
+    <string name="tvDetailNpuertasTitle">NÚMERO DE PUERTAS</string>
+    <string name="tvDetailColorTitle">COLOR</string>
+    <string name="tvDetailAñoTitle">AÑO</string>
+</resources>
